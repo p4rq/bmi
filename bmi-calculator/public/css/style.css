@@ -1,0 +1,83 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+  }
+  
+  .navbar-brand {
+    font-size: 2rem; /* Adjust the font size as needed */
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: auto;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  label {
+    margin-bottom: 0.5rem;
+    color: #343a40;
+  }
+  
+  input, select {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem;
+    cursor: pointer;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #resultContainer {
+    margin-top: 2rem;
+  }
+  
+  .result-card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bmi-result {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin: 0;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
