@@ -566,5 +566,32 @@
     "bmi": "50.00",
     "category": "Obesity",
     "timestamp": "2023-12-30T09:30:23.637Z"
+  },
+  {
+    "weight": 100,
+    "height": 220,
+    "age": 18,
+    "gender": "male",
+    "bmi": "20.66",
+    "category": "Normal",
+    "timestamp": "2023-12-31T11:35:17.088Z"
+  },
+  {
+    "weight": 100,
+    "height": 180,
+    "age": 22,
+    "gender": "male",
+    "bmi": "30.86",
+    "category": "Obesity",
+    "timestamp": "2023-12-31T11:35:33.565Z"
+  },
+  {
+    "weight": 20,
+    "height": 150,
+    "age": 22,
+    "gender": "male",
+    "bmi": "8.89",
+    "category": "Underweight",
+    "timestamp": "2023-12-31T11:35:42.654Z"
   }
 ]
