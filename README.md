@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/bmi-calculator.git`
+1. Clone the repository: `git clone https://github.com/p4rq/bmi-calculator.git`
 2. Navigate to the project folder: `cd bmi-calculator`
 3. Install dependencies: `npm install`
 
